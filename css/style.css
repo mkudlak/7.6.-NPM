@@ -1,0 +1,15 @@
+body {
+  background: #b5d4d3;
+  text-align: center; }
+  body h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px; }
+  body p {
+    font-family: 'Vollkorn SC', serif;
+    color: white;
+    font-size: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; }
